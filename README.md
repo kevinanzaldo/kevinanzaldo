@@ -15,9 +15,12 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
 
 </p>
 
@@ -38,7 +41,7 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 
 <p align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevinanzaldo19@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevinanzaldo19@gmail.com"  target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
