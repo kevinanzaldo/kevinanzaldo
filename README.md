@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Kevin</h1>
+<h1 align="center">Hola, Mi nombre es Kevin Anzaldo</h1>
 <h3 align="center">💻 Estudiante de Desarrollo de Software</h3>
 
 <p align="center">
@@ -38,7 +38,7 @@ Siempre buscando aprender cosas nuevas y mejorar mis habilidades como desarrolla
 
 <p align="center">
 
-<a href="mailto:kevinanzaldo19@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevinanzaldo19@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
